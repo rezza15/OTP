@@ -9,8 +9,8 @@
             <th>Kelas</th>
         </tr>
         <tr>
-            <td>Billy Alfauzi Caesar</td>
-            <td>312110152</td>
+            <td>Rezza Fauzi</td>
+            <td>312110133</td>
             <td>TI.21.A.1</td>
         </tr>
     </table>
@@ -89,6 +89,4 @@ Fungsi Kode ASCII:
 > [!NOTE]
 > Hasil enkripsi ditampilkan dalam format tertentu, termasuk karakter kontrol untuk nilai ASCII di bawah 32.
 
-## Done
-
-# Panjang Umur Untuk Semua Hal-Hal Baik
+## Terima Kasih
